@@ -8,4 +8,4 @@
 
 ## Level 2 again
 
-![](images/hello.jpg) 
+![](image/hello.jpg) 
